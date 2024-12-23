@@ -775,7 +775,7 @@
   position: relative;
 }
 .contact__inner::before {
-  content: url("img/decor/berries.png");
+  content: url("../img/decor/berries.png");
   position: absolute;
   top: -4%;
   left: 0;
